@@ -1,4 +1,4 @@
-This project developed by [Tal Adivi](https://github.com/TalAdivi), [Tomer Bar](https://github.com/tomerbar44) during Java course as a final project.
+This project developed by [Tal Adivi](https://github.com/TalAdivi), [Tomer Bar](https://github.com/tomerbar44) during JAVA course as a final project.
 The project is implemented by MVVM architecture.
 
 ## EasySumm - Short brief
